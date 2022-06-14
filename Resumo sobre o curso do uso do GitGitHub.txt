@@ -1,0 +1,27 @@
+- O que é git? Um sistema controlador de versões de arquivos sendod muito usado no desenvolvimento de softwares.
+
+- O que é uma blob? Onde fica alocado o "conteúdo", um bloco básico.
+
+-O que é uma tree? Uma árvore armazena blobs diferentes montando uma estrutura.
+
+- O que é um commit? Onde fica armazenado tudo.
+
+- O que é uma chave SHA1? Uma chave HASH de identificação formada por 40 dígitos.
+
+- O que é a chave SSH usada no GitHub? É formada por 2 chaves sendo elas uma pública e outra privada, serve para estabelecer a conexão entre 2 máquinas.
+
+     Alguns comandos utilizados no git bash:
+
+. ls -> lista os arquivos.
+. mkdir-> cria um arquivo.
+. ctrl l-> limpa o terminal.
+. mv (...) ./ (...)-> move o arquivo.
+. ls -a-> mostra arquivos ocultos.
+. git status-> mostra o status dos arquivos.
+. cd (...)-> navega entre as pastas.
+. cd ..-> volta uma pasta.
+. dir-> lista os arquivos.
+. del-> deleta arquivos.
+. rmdir-> deleta o repósitorio.
+
+
